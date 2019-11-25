@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    background-color: ivory;
+    text-align: center;
+    padding-top: 20px;
+}
+img{
+    border-radius: 5%;
+    width: 220px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px dotted black;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-table;
+}
+.pakeitimui{
+    background-image: url("img/cover.png");
+}
